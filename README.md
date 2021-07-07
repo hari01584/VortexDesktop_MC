@@ -2,6 +2,9 @@
 > Allows you to play with your friends or random strangers, join hosted lobbies of minecraft and have fun! Allows you to crossplay server between android and windows bedrock! (Needs Android Vortex For it)!
 
 This is [Vortex Connect(Android)](https://github.com/hari01584/VortexApp__MC) version ported to windows with some minimal features on the request of several users! *Please note that right now it only supports connection to servers in lobby, ie it doesn't allow you to host server or use the chat feature of android app, Please use android app to do these things!!!*
+
+Screenshot:
+
 ![](https://github.com/hari01584/VortexDesktop_MC/blob/master/screenshots/01.jpg?raw=true)
 ## Installation
 Grab latest executable from [releases](https://github.com/hari01584/VortexDesktop_MC/releases/latest) and unzip it to a folder, Run **Vortex Desktop.exe**, After that all you have to do is to *double click on any server you would like to join (from the list) and Launch Minecraft Bedrock (Win10), Your server would be in Friends tab (Under LAN)!! :)*
